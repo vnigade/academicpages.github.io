@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "*Namaste!*"
+title                    : "Namaste!"
 title_separator          : "-"
 name                     : &name "Vinod Nigade"
 description              : &description "Phd Candidate in high performance computing group at VU University Amsterdam"
@@ -83,10 +83,10 @@ author:
   name             : "Vinod Nigade"
   avatar           : "vinod_nigade.png"
   bio              : "Exploring HPC-DL services for large scale video analysis"
-  location         : "Amsterdam"
+  location         : "Amsterdam, The Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.nl/citations?user=c47BMlgAAAAJ&hl=en"
-  email            : "v.v.nigade@vu.nl"
+  email            : #"v.v.nigade@vu.nl"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vinod-nigade/"
+  linkedin         : "vinod-nigade"
   orcid            :
   pinterest        :
   soundcloud       :
