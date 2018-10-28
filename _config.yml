@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vinod Nigade"
+title                    : "Namaste"
 title_separator          : "-"
 name                     : &name "Vinod Nigade"
 description              : &description "Phd Candidate in high performance computing group at VU University Amsterdam"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vinod"
+  name             : "Vinod Nigade"
   avatar           : "profile.png"
-  bio              : "PhD candidate in HPC group at VU Univeristy Amsterdam"
+  bio              : "Exploring HPC-DL services for large scale video analysis"
   location         : "Amsterdam"
   employer         :
   googlescholar    : "https://scholar.google.nl/citations?user=c47BMlgAAAAJ&hl=en"
