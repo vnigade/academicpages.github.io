@@ -13,22 +13,23 @@ I did my Masters in parallel and distributed computer systems <a href="https://m
 
 <br>
 <header>
-<h1 class="page__title" itemprop="headline" id="publications">Publications</h1>
-</header>
-<ul>
-{% for post in site.publications reversed %}
-  {% include publications.html %}
-{% endfor %}
-</ul>
-
-<br>
-<header>
 <h1 class="page__title" itemprop="headline" id="patents">Patents
 </h1>
 </header>
 <ul>
 {% for post in site.patents reversed %}
   {% include patents.html %}
+{% endfor %}
+</ul>
+
+
+<br>
+<header>
+<h1 class="page__title" itemprop="headline" id="publications">Publications</h1>
+</header>
+<ul>
+{% for post in site.publications reversed %}
+  {% include publications.html %}
 {% endfor %}
 </ul>
 
