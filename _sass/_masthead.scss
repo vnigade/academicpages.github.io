@@ -15,7 +15,8 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $global-font-family;
+    color: $title-color;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -45,7 +46,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
+  font-family: $global-font-family;
+  color: $title-color;
+  
   &--lg {
     padding-right: 5em;
     font-weight: 700;
