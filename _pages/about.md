@@ -11,7 +11,7 @@ I am a PhD candidate in <a href="https://www.vuhpdc.net" target="_blank">HPDC gr
 
 I did my Masters in parallel and distributed computer systems <a href="https://masters.vu.nl/en/programmes/parallel-distributed-computer-systems/index.aspx" target="_blank">(PDCS)</a> from VU University, Amsterdam with *Cum Laude*. I have around four years of industrial experience in computer systems, particularly distributed and data storage systems.
 
-<br>
+
 <header>
 <h1 class="page__title" itemprop="headline" id="patents">Patents
 </h1>
@@ -23,7 +23,6 @@ I did my Masters in parallel and distributed computer systems <a href="https://m
 </ul>
 
 
-<br>
 <header>
 <h1 class="page__title" itemprop="headline" id="publications">Publications</h1>
 </header>
@@ -33,7 +32,6 @@ I did my Masters in parallel and distributed computer systems <a href="https://m
 {% endfor %}
 </ul>
 
-<br>
 <header>
 <h1 class="page__title" itemprop="headline" id="theses">Theses
 </h1>

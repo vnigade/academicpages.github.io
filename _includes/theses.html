@@ -1,8 +1,9 @@
 {% include base_path %}
 
-<li><p>
-{{ post.author }}
-<br><b> <a href="{{ post.paperurl }}">{{ post.title }} </a> </b><br>
-<i>{{ post.booktitle }}, {{ post.year }}</i>
-</p>
+<li>
+    <p>
+        {{ post.author }}
+        <br> <a href="{{ post.paperurl }}">{{ post.title }} </a> <br>
+        <i>{{ post.booktitle }}</i>, {{ post.year }}
+    </p>
 </li>
