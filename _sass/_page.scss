@@ -38,7 +38,7 @@
   margin-top: 0;
   line-height: 1;
   font-family: $global-font-family;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
   color: $title-color;
 
   & + .page__meta {
@@ -76,10 +76,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
