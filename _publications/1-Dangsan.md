@@ -1,7 +1,7 @@
 ---
 title: "Dangsan: Scalable use-after-free detection"
-author: Van Der Kouwe, Erik and Nigade, Vinod and Giuffrida, Cristiano
-booktitle: 'Eurosys'
+author: Erik Van Der Kouwe, Vinod Nigade, and Cristiano Giuffrida
+booktitle: 'EuroSys'
 pages: '405--419'
 year: '2017'
 organization: 'ACM'
