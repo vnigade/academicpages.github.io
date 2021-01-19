@@ -1,6 +1,6 @@
 ---
 title: "Clownfish: Edge and Cloud Symbiosis for Video Stream Analytics"
-author: Vinod Nigade, Lin Wang, and Henri Bal
+author: *Vinod Nigade*, Lin Wang, and Henri Bal
 booktitle: 'ACM/IEEE Symposium on Edge Computing (SEC)'
 year: '2020'
 organization: 'ACM/IEEE'
