@@ -11,6 +11,7 @@ I am a PhD candidate in [HPDC group](https://www.vuhpdc.net) at VU University, A
 
 I did my Masters in parallel and distributed computer systems [(PDCS)](https://masters.vu.nl/en/programmes/parallel-distributed-computer-systems/index.aspx) from VU University, Amsterdam with *Cum Laude*. I have around four years of industrial experience in computer systems, particularly distributed and data storage systems.
 
+<h2 class="notice--info"> Note: </h2> I am open for a research internship at a university or industrial lab in the area of video stream analytics, systems for DL at the edge. If you find my profile or work interesting then please shoot an email.
 
 <header>
 <h1 class="page__title" itemprop="headline" id="patents">Patents
